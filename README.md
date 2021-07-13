@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hawaiiankid (Sean)
-- 👀 Currently job hunting!
-- 🌱 I’m currently Python and C++
+- 👀 Looking for my first job in the tech space!
+- 🌱 I’m currently learning Python and C++
 - 📫 How to reach me? Send an email to @seantrobison@gmail.com
 
 <!---
