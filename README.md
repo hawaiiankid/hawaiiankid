@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hawaiiankid (Sean)
-- 👀 I’m interested in LinkedIn's REACH SRE apprenticeship!
-- 🌱 I’m currently learning RWD (Responsive Web Design)
-- 📫 How to reach me -- seantrobison@gmail.com
+- 👀 Currently job hunting!
+- 🌱 I’m currently Python and C++
+- 📫 How to reach me? Send an email to @seantrobison@gmail.com
 
 <!---
 hawaiiankid/hawaiiankid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
